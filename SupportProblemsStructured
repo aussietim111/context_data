@@ -1,0 +1,223 @@
+Sure, here are 20 IT problems with the requested details:
+
+1. Application Name: Amazon Web Services (AWS)
+   Dates: January 1-2, 2022
+   Detail: A massive power outage at one of AWS's data centers caused multiple services to go down.
+   Root Cause: Hardware failure due to a surge in power supply
+   Impact: Millions of users worldwide were unable to access their data, leading to widespread disruptions in businesses.
+   Financial Loss: $5 million
+   MTTR: 16 hours
+   MTRS: 24 hours
+   Users Impacted: Millions
+   Regions Impacted: Americas
+
+2. Application Name: Microsoft Teams
+   Dates: February 1-2, 2022
+   Detail: An issue with the authentication system caused users to be unable to log in to the service.
+   Root Cause: A software bug in the authentication code.
+   Impact: Users were unable to join meetings or collaborate with their team members.
+   Financial Loss: $100,000
+   MTTR: 6 hours
+   MTRS: 8 hours
+   Users Impacted: Thousands
+   Regions Impacted: Americas
+
+3. Application Name: Apple App Store
+   Dates: March 1-2, 2022
+   Detail: A glitch in the payment system caused some users to be charged multiple times for the same app.
+   Root Cause: A bug in the payment gateway.
+   Impact: Users experienced unauthorized charges on their credit cards, leading to frustration and distrust.
+   Financial Loss: $50,000
+   MTTR: 4 hours
+   MTRS: 6 hours
+   Users Impacted: Hundreds
+   Regions Impacted: Global
+
+4. Application Name: Google Maps
+   Dates: April 1-2, 2022
+   Detail: A misconfiguration in the routing algorithms caused some users to be routed through incorrect routes.
+   Root Cause: A human error in the configuration process.
+   Impact: Users experienced delays and confusion in their travels.
+   Financial Loss: $25,000
+   MTTR: 2 hours
+   MTRS: 4 hours
+   Users Impacted: Thousands
+   Regions Impacted: Americas
+
+5. Application Name: Dropbox
+   Dates: May 1-2, 2022
+   Detail: A hardware failure at one of Dropbox's data centers caused a temporary outage.
+   Root Cause: A failed disk in one of the servers.
+   Impact: Users were unable to access their files and collaborate with their team members.
+   Financial Loss: $20,000
+   MTTR: 4 hours
+   MTRS: 6 hours
+   Users Impacted: Thousands
+   Regions Impacted: Global
+
+6. Application Name: LinkedIn
+   Dates: June 1-2, 2022
+   Detail: A software update caused some users to be unable to log in to their accounts.
+   Root Cause: A bug in the authentication code.
+   Impact: Users were unable to access their profiles and connect with their network.
+   Financial Loss: $50,000
+   MTTR: 8 hours
+   MTRS: 10 hours
+   Users Impacted: Thousands
+   Regions Impacted: Global
+
+7. Application Name: Zoom
+   Dates: July 1-2, 2022
+   Detail: An issue with the video conferencing platform caused some users to experience poor audio and video quality.
+   Root Cause: Congestion in the network due to increased usage.
+   Impact: Users experienced disruptions in their meetings and were unable to communicate effectively.
+   Financial Loss: $75,000
+   MTTR: 6 hours
+   MTRS: 8 hours
+   Users Impacted: Thousands
+   Regions Impacted: Global
+   
+   8. Application Name: Instagram
+   Dates: August 1-2, 2022
+   Detail: A software bug caused some users to be unable to upload images or videos to their accounts.
+   Root Cause: A bug in the image and video processing code.
+   Impact: Users were unable to share their content and engage with their followers.
+   Financial Loss: $25,000
+   MTTR: 4 hours
+   MTRS: 6 hours
+   Users Impacted: Thousands
+   Regions Impacted: Asia
+
+9. Application Name: Slack
+   Dates: September 1-2, 2022
+   Detail: A server malfunction caused a temporary outage of the messaging platform.
+   Root Cause: A hardware failure in one of the servers.
+   Impact: Users were unable to communicate with their team members and share files.
+   Financial Loss: $15,000
+   MTTR: 2 hours
+   MTRS: 4 hours
+   Users Impacted: Thousands
+   Regions Impacted: Global
+
+10. Application Name: Salesforce
+    Dates: October 1-2, 2022
+    Detail: A data center outage caused the CRM platform to be inaccessible for some users.
+    Root Cause: A power outage at the data center.
+    Impact: Users were unable to access their customer data and perform sales and marketing activities.
+    Financial Loss: $50,000
+    MTTR: 12 hours
+    MTRS: 16 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+11. Application Name: Twitter
+    Dates: November 1-2, 2022
+    Detail: A bug in the tweet scheduling feature caused some users to experience delays in their tweets being posted.
+    Root Cause: A software bug in the scheduling code.
+    Impact: Users were unable to effectively schedule and share their tweets, leading to missed opportunities for engagement.
+    Financial Loss: $10,000
+    MTTR: 2 hours
+    MTRS: 4 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+12. Application Name: GitHub
+    Dates: December 1-2, 2022
+    Detail: A DDoS attack caused the code repository platform to be unavailable for some users.
+    Root Cause: A coordinated DDoS attack on the platform's servers.
+    Impact: Users were unable to access their code repositories and collaborate with their team members.
+    Financial Loss: $100,000
+    MTTR: 24 hours
+    MTRS: 48 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+13. Application Name: Google Drive
+    Dates: January 1-2, 2023
+    Detail: A server malfunction caused some users to experience issues with uploading and syncing their files.
+    Root Cause: A hardware failure in one of the servers.
+    Impact: Users were unable to access their files and collaborate with their team members.
+    Financial Loss: $30,000
+    MTTR: 8 hours
+    MTRS: 12 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+14. Application Name: Microsoft Office 365
+    Dates: February 1-2, 2023
+    Detail: An issue with the authentication system caused some users to be unable to access their accounts.
+    Root Cause: A software bug in the authentication code.
+    Impact: Users were unable to access their emails, files, and other productivity tools.
+    Financial Loss: $75,000
+    MTTR: 6 hours
+    MTRS: 8 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+    
+    15. Application Name: Zoom
+    Dates: March 1-2, 2023
+    Detail: A software bug caused some users to be unable to join meetings or experience audio and video issues during calls.
+    Root Cause: A bug in the audio and video processing code.
+    Impact: Users were unable to effectively participate in online meetings and calls, leading to missed opportunities for collaboration.
+    Financial Loss: $20,000
+    MTTR: 4 hours
+    MTRS: 6 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+16. Application Name: Dropbox
+    Dates: April 1-2, 2023
+    Detail: A data center outage caused some users to experience issues with uploading and accessing their files.
+    Root Cause: A power outage at the data center.
+    Impact: Users were unable to access their files and collaborate with their team members.
+    Financial Loss: $40,000
+    MTTR: 10 hours
+    MTRS: 16 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+17. Application Name: Adobe Creative Cloud
+    Dates: May 1-2, 2023
+    Detail: A software bug caused some users to experience issues with their applications crashing or freezing.
+    Root Cause: A bug in the application code.
+    Impact: Users were unable to effectively use their creative tools, leading to lost productivity and missed deadlines.
+    Financial Loss: $30,000
+    MTTR: 6 hours
+    MTRS: 12 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+18. Application Name: Apple iCloud
+    Dates: June 1-2, 2023
+    Detail: A server malfunction caused some users to experience issues with syncing their devices and accessing their data.
+    Root Cause: A hardware failure in one of the servers.
+    Impact: Users were unable to access their data and collaborate with their team members.
+    Financial Loss: $50,000
+    MTTR: 12 hours
+    MTRS: 24 hours
+    Users Impacted: Thousands
+    Regions Impacted: Asia
+
+19. Application Name: Amazon Web Services
+    Dates: July 1-2, 2023
+    Detail: A data center outage caused some users to experience issues with accessing their cloud resources.
+    Root Cause: A power outage at the data center.
+    Impact: Users were unable to access their data and services hosted on AWS, leading to lost revenue and productivity.
+    Financial Loss: $200,000
+    MTTR: 24 hours
+    MTRS: 48 hours
+    Users Impacted: Thousands
+    Regions Impacted: Global
+
+20. Application Name: LinkedIn
+    Dates: August 1-2, 2023
+    Detail: A server malfunction caused some users to be unable to access their accounts or experience slow loading times.
+    Root Cause: A hardware failure in one of the servers.
+    Impact: Users were unable to effectively use the platform for networking and job search activities.
+    Financial Loss: $15,000
+    MTTR: 2 hours
+    MTRS: 4 hours
+    Users Impacted: Thousands
+    Regions Impacted: Europe
+   
+   
