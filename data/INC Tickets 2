@@ -1,0 +1,201 @@
+
+
+1. Ticket #INC001:
+   - Ticket Type: INCIDENT
+   - Outage Time: 9:30 AM
+   - Outage Date: 2022-06-01
+   - Outage Detail: Inability to log in to the online banking system after a recent software update.
+   - MTTRS: 1 hour
+   - Region Impacted: North America
+   - Financial Loss: $2,500
+   - Fix Applied: Rolled back the software update and restored the previous version.
+
+2. Ticket #INC002:
+   - Ticket Type: INCIDENT
+   - Outage Time: 11:45 AM
+   - Outage Date: 2023-06-03
+   - Outage Detail: Mobile app crashing upon launch after a recent feature enhancement.
+   - MTTRS: 45 minutes
+   - Region Impacted: Europe
+   - Financial Loss: €1,800
+   - Fix Applied: Identified and fixed the bug causing the app crashes, released an updated version.
+
+3. Ticket #INC003:
+   - Ticket Type: INCIDENT
+   - Outage Time: 2:00 PM
+   - Outage Date: 2023-06-05
+   - Outage Detail: Payment processing failures resulting in transaction errors after a recent configuration change.
+   - MTTRS: 2 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $4,000
+   - Fix Applied: Reverted the configuration change and implemented additional validation checks.
+
+4. Ticket #INC004:
+   - Ticket Type: INCIDENT
+   - Outage Time: 4:15 PM
+   - Outage Date: 2022-06-07
+   - Outage Detail: Inability to access customer records and perform search operations after a recent database upgrade.
+   - MTTRS: 3 hours
+   - Region Impacted: North America
+   - Financial Loss: $3,200
+   - Fix Applied: Rolled back the database upgrade and restored the previous version.
+
+5. Ticket #INC005:
+   - Ticket Type: INCIDENT
+   - Outage Time: 8:30 AM
+   - Outage Date: 2023-06-09
+   - Outage Detail: ATMs displaying incorrect balance information after a recent software patch.
+   - MTTRS: 2.5 hours
+   - Region Impacted: Europe
+   - Financial Loss: €2,000
+   - Fix Applied: Analyzed and corrected the balance calculation algorithm, deployed a hotfix.
+
+6. Ticket #INC006:
+   - Ticket Type: INCIDENT
+   - Outage Time: 10:45 AM
+   - Outage Date: 2023-06-11
+   - Outage Detail: Delayed fraud detection alerts after a recent server migration.
+   - MTTRS: 1.5 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $1,500
+   - Fix Applied: Reconfigured server settings and optimized alert processing, restored normal functionality.
+
+7. Ticket #INC007:
+   - Ticket Type: INCIDENT
+   - Outage Time: 1:00 PM
+   - Outage Date: 2023-06-13
+   - Outage Detail: System timeouts during loan application submission after a recent software update.
+   - MTTRS: 1.5 hours
+   - Region Impacted: North America
+   - Financial Loss: $2,800
+   - Fix Applied: Identified and resolved performance bottlenecks, improved application submission process.
+
+8. Ticket #INC008:
+   - Ticket Type: INCIDENT
+   - Outage Time: 3:15 PM
+   - Outage Date: 2023-06-15
+   - Outage Detail: Inaccurate credit card transaction processing after a recent software patch.
+   - MTTRS: 2 hours
+   - Region Impacted: Europe
+   - Financial Loss: €2,300
+   - Fix Applied: Investigated and rectified the bug causing transaction processing errors, released a patched version.
+
+9. Ticket #INC009:
+   - Ticket Type: INCIDENT
+   - Outage Time: 9:15 AM
+   - Outage Date: 2022-06-17
+   - Outage Detail: Inability to execute trades on the online trading platform after a recent infrastructure upgrade.
+   - MTTRS: 2.5 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $3,500
+   - Fix Applied: Resolved infrastructure compatibility issues and restored trading functionality.
+
+10. Ticket #INC010:
+    - Ticket Type: INCIDENT
+    - Outage Time: 11:30 AM
+    - Outage Date: 2023-06-19
+    - Outage Detail: Performance degradation and slow response times on the wealth management platform after a recent software update.
+    - MTTRS: 2 hours
+    - Region Impacted: North America
+    - Financial Loss: $2,100
+    - Fix Applied: Optimized system resources and improved database query performance.
+
+11. Ticket #INC011:
+    - Ticket Type: INCIDENT
+    - Outage Time: 2:45 PM
+    - Outage Date: 2023-06-21
+    - Outage Detail: Unavailability of mobile payment services after a recent server maintenance.
+    - MTTRS: 1.5 hours
+    - Region Impacted: Europe
+    - Financial Loss: €1,600
+    - Fix Applied: Restored server connectivity and validated payment service functionality.
+
+12. Ticket #INC012:
+    - Ticket Type: INCIDENT
+    - Outage Time: 4:00 PM
+    - Outage Date: 2023-06-23
+    - Outage Detail: Inability to submit and track customer support tickets after a recent software upgrade.
+    - MTTRS: 2 hours
+    - Region Impacted: Asia-Pacific
+    - Financial Loss: $2,200
+    - Fix Applied: Rolled back the software upgrade and restored the previous version.
+
+13. Ticket #INC013:
+    - Ticket Type: INCIDENT
+    - Outage Time: 8:45 AM
+    - Outage Date: 2023-06-25
+    - Outage Detail: Incorrect interest calculations for fixed deposit accounts after a recent interest rate update.
+    - MTTRS: 1.5 hours
+    - Region Impacted: North America
+    - Financial Loss: $2,300
+    - Fix Applied: Rectified interest rate calculation formulas and recalculated interest for affected accounts.
+
+14. Ticket #INC014:
+    - Ticket Type: INCIDENT
+    - Outage Time: 11:00 AM
+    - Outage Date: 2023-06-27
+    - Outage Detail: False-positive fraud alerts triggered after a recent machine learning model update.
+    - MTTRS: 1 hour
+    - Region Impacted: Europe
+    - Financial Loss: €1,400
+    - Fix Applied: Reevaluated and retrained the machine learning model, reduced false-positive alerts.
+
+15. Ticket #INC015:
+    - Ticket Type: INCIDENT
+    - Outage Time: 1:15 PM
+    - Outage Date: 2023-06-29
+    - Outage Detail: Inconsistent account balances after a recent data migration.
+    - MTTRS: 2 hours
+    - Region Impacted: Asia-Pacific
+    - Financial Loss: $2,600
+    - Fix Applied: Conducted data reconciliation and resolved balance inconsistencies, performed data validation.
+
+16. Ticket #INC016:
+    - Ticket Type: INCIDENT
+    - Outage Time: 3:30 PM
+    - Outage Date: 2023-07-01
+    - Outage Detail: ATM cash replenishment delays after a recent integration with a new cash management system.
+    - MTTRS: 2.5 hours
+    - Region Impacted: North America
+    - Financial Loss: $3,000
+    - Fix Applied: Addressed integration issues and optimized cash replenishment workflows.
+
+17. Ticket #INC017:
+    - Ticket Type: INCIDENT
+    - Outage Time: 9:45 AM
+    - Outage Date: 2023-07-03
+    - Outage Detail: Declined credit card transactions due to a recent configuration error.
+    - MTTRS: 1 hour
+    - Region Impacted: Europe
+    - Financial Loss: €1,900
+    - Fix Applied: Rectified configuration settings and restored normal transaction processing.
+
+18. Ticket #INC018:
+    - Ticket Type: INCIDENT
+    - Outage Time: 12:00 PM
+    - Outage Date: 2023-07-05
+    - Outage Detail: System errors during loan application approval process after a recent software patch.
+    - MTTRS: 2 hours
+    - Region Impacted: Asia-Pacific
+    - Financial Loss: $2,400
+    - Fix Applied: Identified and fixed the bug causing the approval process errors, released an updated version.
+
+19. Ticket #INC019:
+    - Ticket Type: INCIDENT
+    - Outage Time: 2:15 PM
+    - Outage Date: 2023-07-07
+    - Outage Detail: Transaction processing failures and delays after a recent server migration.
+    - MTTRS: 1.5 hours
+    - Region Impacted: North America
+    - Financial Loss: $2,100
+    - Fix Applied: Resolved server configuration issues and optimized transaction processing, restored normal operations.
+
+20. Ticket #INC020:
+    - Ticket Type: INCIDENT
+    - Outage Time: 4:30 PM
+    - Outage Date: 2023-07-09
+    - Outage Detail: Inability to access customer data and perform CRM functions after a recent database upgrade.
+    - MTTRS: 3 hours
+    - Region Impacted: Europe
+    - Financial Loss: €2,500
+    - Fix Applied: Rolled back the database upgrade and restored the previous version.
