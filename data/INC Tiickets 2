@@ -1,0 +1,243 @@
+1. Ticket #INC001:
+   - Software Name: Core Banking System
+   - Ticket Type: INCIDENT
+   - Outage Time: 9:30 AM
+   - Outage Date: 2023-06-01
+   - Outage Detail: Inability to log in to the online banking system after a recent software update.
+   - MTTRS: 1 hour
+   - Region Impacted: North America
+   - Financial Loss: $2,500
+   - Root Cause: Bug in the login authentication module.
+   - Fix Applied: Identified and fixed the bug in the authentication module, released an updated version.
+
+2. Ticket #INC002:
+   - Software Name: Payment Processing System
+   - Ticket Type: INCIDENT
+   - Outage Time: 11:45 AM
+   - Outage Date: 2023-06-03
+   - Outage Detail: Payment processing failures after a recent configuration change.
+   - MTTRS: 45 minutes
+   - Region Impacted: Europe
+   - Financial Loss: $1,800
+   - Root Cause: Capacity issue with the payment processing servers.
+   - Fix Applied: Increased server capacity and optimized the payment processing workflow.
+
+3. Ticket #INC003:
+   - Software Name: Loan Origination System
+   - Ticket Type: INCIDENT
+   - Outage Time: 2:00 PM
+   - Outage Date: 2023-06-05
+   - Outage Detail: System errors during loan application submission after a recent software update.
+   - MTTRS: 2 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $4,000
+   - Root Cause: Bug in the application submission module.
+   - Fix Applied: Identified and fixed the bug in the submission module, released an updated version.
+
+4. Ticket #INC004:
+   - Software Name: Customer Relationship Management (CRM) System
+   - Ticket Type: INCIDENT
+   - Outage Time: 4:15 PM
+   - Outage Date: 2023-06-07
+   - Outage Detail: Inability to access customer records and perform search operations after a recent database upgrade.
+   - MTTRS: 3 hours
+   - Region Impacted: North America
+   - Financial Loss: $3,200
+   - Root Cause: Bad data migration during the database upgrade.
+   - Fix Applied: Reversed the data migration, restored the previous database state, and performed a correct data migration.
+
+5. Ticket #INC005:
+   - Software Name: ATM Management System
+   - Ticket Type: INCIDENT
+   - Outage Time: 8:30 AM
+   - Outage Date: 2023-06-09
+   - Outage Detail: ATMs displaying incorrect balance information after a recent software patch.
+   - MTTRS: 2.5 hours
+   - Region Impacted: Europe
+   - Financial Loss: $2,000
+   - Root Cause: Bug in the balance calculation algorithm.
+   - Fix Applied: Identified and fixed the bug in the balance calculation algorithm, deployed an updated version.
+
+6. Ticket #INC006:
+   - Software Name: Fraud Detection System
+   - Ticket Type: INCIDENT
+   - Outage Time: 10:45 AM
+   - Outage Date: 2023-06-11
+ - Outage Detail: Delayed fraud detection alerts after a recent server migration.
+   - MTTRS: 1.5 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $1,500
+   - Root Cause: Capacity issue with the new server infrastructure.
+   - Fix Applied: Increased server capacity and optimized the fraud detection algorithm.
+
+7. Ticket #INC007:
+   - Software Name: Mobile Banking App
+   - Ticket Type: INCIDENT
+   - Outage Time: 1:00 PM
+   - Outage Date: 2023-06-13
+   - Outage Detail: Mobile app crashes upon launch after a recent feature enhancement.
+   - MTTRS: 1.5 hours
+   - Region Impacted: North America
+   - Financial Loss: $2,800
+   - Root Cause: User error in handling memory allocation.
+   - Fix Applied: Modified memory allocation process and resolved the app crash issue.
+
+8. Ticket #INC008:
+   - Software Name: Online Trading Platform
+   - Ticket Type: INCIDENT
+   - Outage Time: 3:15 PM
+   - Outage Date: 2023-06-15
+   - Outage Detail: Inability to execute trades on the online trading platform after a recent infrastructure upgrade.
+   - MTTRS: 2.5 hours
+   - Region Impacted: Europe
+   - Financial Loss: $2,300
+   - Root Cause: Bug in the trade execution module.
+   - Fix Applied: Identified and fixed the bug in the trade execution module, released an updated version.
+
+9. Ticket #INC009:
+   - Software Name: Credit Card Processing System
+   - Ticket Type: INCIDENT
+   - Outage Time: 9:15 AM
+   - Outage Date: 2023-06-17
+   - Outage Detail: Inconsistent credit card transaction processing after a recent software patch.
+   - MTTRS: 2 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $3,500
+   - Root Cause: Bad data in the credit card transaction database.
+   - Fix Applied: Identified and corrected the bad data, reprocessed affected transactions.
+
+10. Ticket #INC010:
+    - Software Name: Online Account Opening System
+    - Ticket Type: INCIDENT
+    - Outage Time: 11:30 AM
+    - Outage Date: 2023-06-19
+    - Outage Detail: Inability to submit new account applications after a recent software upgrade.
+    - MTTRS: 2 hours
+    - Region Impacted: North America
+    - Financial Loss: $2,100
+    - Root Cause: Bug in the application submission module.
+    - Fix Applied: Identified and fixed the bug in the submission module, released an updated version.
+
+11. Ticket #INC011:
+    - Software Name: Loan Servicing System
+    - Ticket Type: INCIDENT
+    - Outage Time: 2:45 PM
+    - Outage Date: 2023-06-21
+    - Outage Detail: Delayed loan payment processing after a recent software update.
+    - MTTRS: 1.5 hours
+    - Region Impacted: Europe
+    - Financial Loss: $1,600
+    - Root Cause: Change in payment gateway configuration.
+    - Fix Applied: Reconfigured the payment gateway settings, restored normal loan payment processing.
+
+12. Ticket #INC012:
+    - Software Name: Wealth Management Platform
+    - Ticket Type: INCIDENT
+    - Outage Time: 4:00 PM
+    - Outage Date: 2023-06-23
+    - Outage Detail: Performance
+
+ degradation and slow response times on the wealth management platform after a recent software update.
+    - MTTRS: 2 hours
+    - Region Impacted: Asia-Pacific
+    - Financial Loss: $2,200
+    - Root Cause: Bug in the performance optimization module.
+    - Fix Applied: Identified and fixed the bug in the performance optimization module, deployed an updated version.
+
+13. Ticket #INC013:
+    - Software Name: Mobile Payment App
+    - Ticket Type: INCIDENT
+    - Outage Time: 8:45 AM
+    - Outage Date: 2023-06-25
+    - Outage Detail: Unavailability of mobile payment services after a recent server maintenance.
+    - MTTRS: 1.5 hours
+    - Region Impacted: North America
+    - Financial Loss: $2,300
+    - Root Cause: Batch fail during the server maintenance process.
+    - Fix Applied: Completed server maintenance and restored mobile payment services.
+
+14. Ticket #INC014:
+    - Software Name: Mortgage Origination System
+    - Ticket Type: INCIDENT
+    - Outage Time: 11:00 AM
+    - Outage Date: 2023-06-27
+    - Outage Detail: System errors during mortgage application underwriting process after a recent software patch.
+    - MTTRS: 1 hour
+    - Region Impacted: Europe
+    - Financial Loss: $1,400
+    - Root Cause: Bug in the underwriting module.
+    - Fix Applied: Identified and fixed the bug in the underwriting module, released an updated version.
+
+15. Ticket #INC015:
+    - Software Name: Credit Scoring System
+    - Ticket Type: INCIDENT
+    - Outage Time: 1:15 PM
+    - Outage Date: 2023-06-29
+    - Outage Detail: Inconsistent credit score calculations for loan applicants after a recent data update.
+    - MTTRS: 1.5 hours
+    - Region Impacted: Asia-Pacific
+    - Financial Loss: $2,500
+    - Root Cause: Bad data in the credit score calculation algorithm.
+    - Fix Applied: Rectified the data inconsistency, recalibrated the credit score calculation algorithm.
+
+16. Ticket #INC016:
+    - Software Name: Online Banking Portal
+    - Ticket Type: INCIDENT
+    - Outage Time: 3:30 PM
+    - Outage Date: 2023-07-01
+    - Outage Detail: System timeouts and slow response times on the online banking portal after a recent infrastructure upgrade.
+    - MTTRS: 2.5 hours
+    - Region Impacted: North America
+    - Financial Loss: $3,000
+    - Root Cause: Capacity issue with the upgraded infrastructure.
+    - Fix Applied: Increased server capacity and optimized the portal's performance.
+
+17. Ticket #INC017:
+    - Software Name: Investment Portfolio Management System
+    - Ticket Type: INCIDENT
+    - Outage Time: 9:45 AM
+    - Outage Date: 2023-07-03
+    - Outage Detail: Delayed portfolio performance updates and inaccurate pricing data after a recent data feed integration.
+    - MTTRS: 1 hour
+    - Region Impacted: Europe
+    - Financial Loss: $1,900
+    - Root Cause: Change in the data feed integration process.
+    - Fix Applied: Modified the data feed integration process, ensured timely performance updates and accurate pricing data.
+
+
+18. Ticket #INC018:
+   - Software Name: Online Loan Application Portal
+   - Ticket Type: INCIDENT
+   - Outage Time: 12:00 PM
+   - Outage Date: 2023-07-02
+   - Outage Detail: System errors and application crashes during the loan application submission process after a recent software update.
+   - MTTRS: 1.5 hours
+   - Region Impacted: Europe
+   - Financial Loss: $2,200
+   - Root Cause: Bug in the application validation module.
+   - Fix Applied: Identified and fixed the bug in the validation module, released an updated version.
+
+ 19. Ticket #INC019:
+   - Software Name: Online Stock Trading Platform
+   - Ticket Type: INCIDENT
+   - Outage Time: 2:30 PM
+   - Outage Date: 2023-07-05
+   - Outage Detail: Incomplete trade executions and order discrepancies after a recent software upgrade.
+   - MTTRS: 2 hours
+   - Region Impacted: Asia-Pacific
+   - Financial Loss: $2,700
+   - Root Cause: User error in configuring trade execution rules.
+   - Fix Applied: Corrected the trade execution rules and validated the order processing workflow.
+
+20. Ticket #INC020:
+   - Software Name: Customer Onboarding System
+   - Ticket Type: INCIDENT
+   - Outage Time: 4:45 PM
+   - Outage Date: 2023-07-07
+   - Outage Detail: Inability to complete customer onboarding process after a recent change in regulatory requirements.
+   - MTTRS: 2.5 hours
+   - Region Impacted: North America
+   - Financial Loss: $3,100
+   - Root Cause: Change in regulatory compliance procedures.
+   - Fix Applied: Updated the onboarding process to align with new regulatory requirements and resumed customer onboarding.
+
