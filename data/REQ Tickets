@@ -72,9 +72,7 @@
 
 9. Ticket #REQ009:
    - Software Name: Firewall Configuration
-   - User Name
-
-: Benjamin Johnson
+   - User Name: Benjamin Johnson
    - User Location: Sydney, Australia
    - Type of Request: Port Opening
    - Details of Request: Need to open a specific port on the firewall to allow incoming connections for a new application.
@@ -148,8 +146,6 @@
     - Software Name: File Encryption Software
     - User Name: Lily Johnson
     - User Location: Sydney, Australia
-
-
     - Type of Request: Encryption Key Recovery
     - Details of Request: Requesting assistance with recovering the encryption key for accessing encrypted files.
     - Time and Date of Request: 2023-07-07 01:00 PM
