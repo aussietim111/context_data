@@ -1,0 +1,184 @@
+1. Ticket #REQ001:
+   - Software Name: Database Management System
+   - User Name: John Smith
+   - User Location: New York, USA
+   - Type of Request: Access Request
+   - Details of Request: Requesting read-only access to specific database tables for reporting purposes.
+   - Time and Date of Request: 2023-06-01 10:30 AM
+   - Status of Request: Pending
+
+2. Ticket #REQ002:
+   - Software Name: Web Application
+   - User Name: Emily Johnson
+   - User Location: London, UK
+   - Type of Request: Password Reset
+   - Details of Request: Forgot password and unable to log into the web application.
+   - Time and Date of Request: 2023-06-02 02:15 PM
+   - Status of Request: In Progress
+
+3. Ticket #REQ003:
+   - Software Name: Email Server
+   - User Name: David Miller
+   - User Location: Sydney, Australia
+   - Type of Request: Email Configuration
+   - Details of Request: Need assistance with setting up email client for accessing company emails.
+   - Time and Date of Request: 2023-06-05 09:45 AM
+   - Status of Request: Completed
+
+4. Ticket #REQ004:
+   - Software Name: CRM System
+   - User Name: Sarah Thompson
+   - User Location: Toronto, Canada
+   - Type of Request: Record Update
+   - Details of Request: Requesting to update contact information for a specific customer in the CRM system.
+   - Time and Date of Request: 2023-06-07 03:30 PM
+   - Status of Request: In Progress
+
+5. Ticket #REQ005:
+   - Software Name: Network Monitoring Tool
+   - User Name: Michael Anderson
+   - User Location: Berlin, Germany
+   - Type of Request: Alert Configuration
+   - Details of Request: Need help configuring email alerts for specific network events in the monitoring tool.
+   - Time and Date of Request: 2023-06-09 11:00 AM
+   - Status of Request: Completed
+
+6. Ticket #REQ006:
+   - Software Name: File Sharing Application
+   - User Name: Sophia Wilson
+   - User Location: Tokyo, Japan
+   - Type of Request: File Recovery
+   - Details of Request: Accidentally deleted a file and need assistance with recovering it from the file sharing application.
+   - Time and Date of Request: 2023-06-10 04:00 PM
+   - Status of Request: Pending
+
+7. Ticket #REQ007:
+   - Software Name: Backup System
+   - User Name: Ethan Martinez
+   - User Location: Miami, USA
+   - Type of Request: Backup Restore
+   - Details of Request: Need to restore a specific file from a recent backup in the backup system.
+   - Time and Date of Request: 2023-06-12 09:30 AM
+   - Status of Request: Completed
+
+8. Ticket #REQ008:
+   - Software Name: Inventory Management System
+   - User Name: Olivia Davis
+   - User Location: Paris, France
+   - Type of Request: New User Creation
+   - Details of Request: Requesting to create a new user account in the inventory management system for a new employee.
+   - Time and Date of Request: 2023-06-15 11:30 AM
+   - Status of Request: Completed
+
+9. Ticket #REQ009:
+   - Software Name: Firewall Configuration
+   - User Name
+
+: Benjamin Johnson
+   - User Location: Sydney, Australia
+   - Type of Request: Port Opening
+   - Details of Request: Need to open a specific port on the firewall to allow incoming connections for a new application.
+   - Time and Date of Request: 2023-06-17 02:45 PM
+   - Status of Request: In Progress
+
+10. Ticket #REQ010:
+    - Software Name: Help Desk Software
+    - User Name: Emma Thompson
+    - User Location: London, UK
+    - Type of Request: Ticket Escalation
+    - Details of Request: Requesting to escalate a support ticket to a higher priority due to a critical issue.
+    - Time and Date of Request: 2023-06-20 10:00 AM
+    - Status of Request: Pending
+
+11. Ticket #REQ011:
+    - Software Name: VPN Server
+    - User Name: Alexander Lee
+    - User Location: Toronto, Canada
+    - Type of Request: VPN Access
+    - Details of Request: Need VPN access to securely connect to the company's internal network remotely.
+    - Time and Date of Request: 2023-06-22 01:30 PM
+    - Status of Request: Completed
+
+12. Ticket #REQ012:
+    - Software Name: Project Management Tool
+    - User Name: Ava Harris
+    - User Location: Berlin, Germany
+    - Type of Request: Project Creation
+    - Details of Request: Requesting to create a new project in the project management tool with specific details and team members.
+    - Time and Date of Request: 2023-06-25 03:00 PM
+    - Status of Request: In Progress
+
+13. Ticket #REQ013:
+    - Software Name: Database Backup Script
+    - User Name: William Wilson
+    - User Location: Miami, USA
+    - Type of Request: Backup Schedule Change
+    - Details of Request: Need to change the backup schedule for the database backup script to a more suitable time.
+    - Time and Date of Request: 2023-06-27 09:00 AM
+    - Status of Request: Completed
+
+14. Ticket #REQ014:
+    - Software Name: Email Filtering System
+    - User Name: Mia Thompson
+    - User Location: Paris, France
+    - Type of Request: Whitelist Request
+    - Details of Request: Need to whitelist a specific email domain in the email filtering system to ensure email delivery.
+    - Time and Date of Request: 2023-06-30 10:45 AM
+    - Status of Request: In Progress
+
+15. Ticket #REQ015:
+    - Software Name: ERP System
+    - User Name: James Wilson
+    - User Location: New York, USA
+    - Type of Request: Report Generation
+    - Details of Request: Requesting a custom sales report from the ERP system with specific parameters and filters.
+    - Time and Date of Request: 2023-07-02 02:30 PM
+    - Status of Request: Completed
+
+16. Ticket #REQ016:
+    - Software Name: Network Monitoring Tool
+    - User Name: Harper Thomas
+    - User Location: Tokyo, Japan
+    - Type of Request: Dashboard Customization
+    - Details of Request: Need assistance with customizing the network monitoring tool dashboard to display specific metrics.
+    - Time and Date of Request: 2023-07-05 11:30 AM
+    - Status of Request: Pending
+
+17. Ticket #REQ017:
+    - Software Name: File Encryption Software
+    - User Name: Lily Johnson
+    - User Location: Sydney, Australia
+
+
+    - Type of Request: Encryption Key Recovery
+    - Details of Request: Requesting assistance with recovering the encryption key for accessing encrypted files.
+    - Time and Date of Request: 2023-07-07 01:00 PM
+    - Status of Request: Completed
+
+18. Ticket #REQ018:
+    - Software Name: CRM System
+    - User Name: Logan Brown
+    - User Location: London, UK
+    - Type of Request: Record Deletion
+    - Details of Request: Requesting to delete a specific customer record from the CRM system.
+    - Time and Date of Request: 2023-07-10 09:45 AM
+    - Status of Request: In Progress
+
+19. Ticket #REQ019:
+    - Software Name: Backup System
+    - User Name: Victoria Anderson
+    - User Location: Berlin, Germany
+    - Type of Request: Backup Configuration
+    - Details of Request: Need assistance with configuring automated backups for a specific directory in the backup system.
+    - Time and Date of Request: 2023-07-12 11:15 AM
+    - Status of Request: Completed
+
+20. Ticket #REQ020:
+    - Software Name: Inventory Management System
+    - User Name: Benjamin Davis
+    - User Location: Toronto, Canada
+    - Type of Request: Inventory Import
+    - Details of Request: Requesting assistance with importing a large inventory dataset into the inventory management system.
+    - Time and Date of Request: 2023-07-15 12:30 PM
+    - Status of Request: In Progress
+
