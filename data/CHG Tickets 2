@@ -1,0 +1,202 @@
+1. Ticket #CHG001:
+   - Ticket Type: Change
+   - Software Name: Core Banking System
+   - Change Title: Upgrade Database Server
+   - Change Detail: Upgrade the database server of the core banking system to improve performance and security.
+   - Change Date: 2023-06-01
+   - Change Start Time: 10:00 AM
+   - Change Finish Time: 12:00 PM
+   - Change Status: Scheduled
+
+2. Ticket #CHG002:
+   - Ticket Type: Change
+   - Software Name: Online Banking Platform
+   - Change Title: Implement Two-Factor Authentication
+   - Change Detail: Introduce two-factor authentication for the online banking platform to enhance security.
+   - Change Date: 2023-06-02
+   - Change Start Time: 09:30 AM
+   - Change Finish Time: 10:30 AM
+   - Change Status: Completed
+
+3. Ticket #CHG003:
+   - Ticket Type: Change
+   - Software Name: Anti-Money Laundering (AML) System
+   - Change Title: Update Regulatory Rules
+   - Change Detail: Update the regulatory rules in the AML system to comply with the latest regulations and ensure accurate detection of suspicious activities.
+   - Change Date: 2023-06-05
+   - Change Start Time: 08:00 AM
+   - Change Finish Time: 05:00 PM
+   - Change Status: In Progress
+
+4. Ticket #CHG004:
+   - Ticket Type: Change
+   - Software Name: Payment Processing System
+   - Change Title: Implement Real-Time Payment Capability
+   - Change Detail: Enable real-time payment processing functionality in the payment processing system to facilitate instant fund transfers between accounts.
+   - Change Date: 2023-06-07
+   - Change Start Time: 02:00 PM
+   - Change Finish Time: 04:00 PM
+   - Change Status: Completed
+
+5. Ticket #CHG005:
+   - Ticket Type: Change
+   - Software Name: Fraud Detection System
+   - Change Title: Enhance Machine Learning Models
+   - Change Detail: Improve the machine learning models used in the fraud detection system to increase accuracy in identifying fraudulent transactions.
+   - Change Date: 2023-06-09
+   - Change Start Time: 10:00 AM
+   - Change Finish Time: 12:00 PM
+   - Change Status: Scheduled
+
+6. Ticket #CHG006:
+   - Ticket Type: Change
+   - Software Name: Risk Management System
+   - Change Title: Update Risk Assessment Methodology
+   - Change Detail: Update the risk assessment methodology in the risk management system to adapt to evolving risk factors and enhance risk mitigation strategies.
+   - Change Date: 2023-06-10
+   - Change Start Time: 03:30 PM
+   - Change Finish Time: 04:30 PM
+   - Change Status: Completed
+
+7. Ticket #CHG007:
+   - Ticket Type: Change
+   - Software Name: Customer Relationship Management (CRM) System
+   - Change Title: Integrate Social Media Analytics
+   - Change Detail: Integrate social media analytics capabilities into the CRM system to gather customer insights from social media platforms and enhance customer relationship management.
+   - Change Date: 2023-06-12
+   - Change Start Time: 09:00 AM
+   - Change Finish Time: 10:30 AM
+   - Change Status: In Progress
+
+8. Ticket #CHG008:
+   - Ticket Type:
+
+ Change
+   - Software Name: Treasury Management System
+   - Change Title: Update Cash Forecasting Module
+   - Change Detail: Update the cash forecasting module in the treasury management system to improve accuracy in cash flow projections and optimize liquidity management.
+   - Change Date: 2023-06-15
+   - Change Start Time: 10:00 AM
+   - Change Finish Time: 11:30 AM
+   - Change Status: Completed
+
+9. Ticket #CHG009:
+   - Ticket Type: Change
+   - Software Name: Loan Origination System
+   - Change Title: Enhance Credit Scoring Algorithm
+   - Change Detail: Improve the credit scoring algorithm in the loan origination system to assess creditworthiness more accurately and reduce default rates.
+   - Change Date: 2023-06-17
+   - Change Start Time: 02:00 PM
+   - Change Finish Time: 03:30 PM
+   - Change Status: In Progress
+
+10. Ticket #CHG010:
+    - Ticket Type: Change
+    - Software Name: Mobile Banking App
+    - Change Title: Implement Biometric Authentication
+    - Change Detail: Introduce biometric authentication (fingerprint/face recognition) for secure access to the mobile banking app.
+    - Change Date: 2023-06-19
+    - Change Start Time: 09:30 AM
+    - Change Finish Time: 10:30 AM
+    - Change Status: Completed
+
+11. Ticket #CHG011:
+    - Ticket Type: Change
+    - Software Name: Trade Finance System
+    - Change Title: Upgrade SWIFT Messaging Interface
+    - Change Detail: Upgrade the SWIFT messaging interface in the trade finance system to ensure compatibility with the latest SWIFT standards.
+    - Change Date: 2023-06-22
+    - Change Start Time: 11:00 AM
+    - Change Finish Time: 12:00 PM
+    - Change Status: Scheduled
+
+12. Ticket #CHG012:
+    - Ticket Type: Change
+    - Software Name: Credit Card Processing System
+    - Change Title: Enable Contactless Payments
+    - Change Detail: Enable contactless payment functionality in the credit card processing system to support tap-and-go payments.
+    - Change Date: 2023-06-24
+    - Change Start Time: 03:00 PM
+    - Change Finish Time: 04:00 PM
+    - Change Status: Completed
+
+13. Ticket #CHG013:
+    - Ticket Type: Change
+    - Software Name: Wealth Management Platform
+    - Change Title: Upgrade Portfolio Management Module
+    - Change Detail: Upgrade the portfolio management module in the wealth management platform to provide enhanced investment analysis and reporting capabilities.
+    - Change Date: 2023-06-26
+    - Change Start Time: 10:00 AM
+    - Change Finish Time: 12:00 PM
+    - Change Status: In Progress
+
+14. Ticket #CHG014:
+    - Ticket Type: Change
+    - Software Name: ATM Management System
+    - Change Title: Install Security Patch
+    - Change Detail: Apply the latest security patch to the ATM management system to address identified vulnerabilities.
+    - Change Date: 2023-06-28
+    - Change Start Time: 02:00 PM
+    - Change Finish Time: 03:00 PM
+    - Change Status: Completed
+
+15. Ticket #CHG015:
+    - Ticket Type: Change
+    - Software Name: Mortgage Origination System
+    - Change Title: Update Interest Rate Calculation
+    - Change Detail: Update the interest rate calculation logic in the mortgage origination system to align with regulatory requirements and improve accuracy.
+    - Change Date: 2023-06-30
+    - Change Start Time: 09:00 AM
+    - Change Finish Time: 11:00 AM
+    - Change Status: Scheduled
+
+16. Ticket #CHG016:
+    - Ticket Type: Change
+    - Software Name: Online Trading Platform
+    - Change Title: Implement Multi-Factor Authentication
+    - Change Detail: Introduce multi-factor authentication (MFA) for secure login to the online trading platform.
+    - Change Date: 2023-07-02
+    - Change Start Time: 03:30 PM
+    - Change Finish Time: 04:30 PM
+    - Change Status: In Progress
+
+17. Ticket #CHG017:
+    - Ticket Type: Change
+    - Software Name: Swift Messaging System
+    - Change Title: Upgrade Swift Message Parsing Engine
+    - Change Detail: Upgrade the Swift message parsing engine in the system to support the latest Swift message standards and improve parsing accuracy.
+    - Change Date: 2023-07-04
+    - Change Start Time: 10:00 AM
+    - Change Finish Time: 12:00 PM
+    - Change Status: Completed
+
+18. Ticket #CHG018:
+    - Ticket Type: Change
+    - Software Name: Digital Wallet Application
+    - Change Title: Integrate New Payment Gateway
+    - Change Detail: Integrate a new payment gateway into the digital wallet application to expand payment options and improve transaction processing.
+    - Change Date: 2023-07-06
+    - Change Start Time: 02:00 PM
+    - Change Finish Time: 03:30 PM
+    - Change Status: In Progress
+
+19. Ticket #CHG019:
+    - Ticket Type: Change
+    - Software Name: Online Account Opening System
+    - Change Title: Update Know Your Customer (KYC) Workflow
+    - Change Detail: Update the KYC workflow in the online account opening system to streamline customer verification and compliance processes.
+    - Change Date: 2023-07-08
+    - Change Start Time: 09:30 AM
+    - Change Finish Time: 10:30 AM
+    - Change Status: Completed
+
+20. Ticket #CHG020:
+    - Ticket Type: Change
+    - Software Name: Trade Settlement System
+    - Change Title: Implement Automated Reconciliation
+    - Change Detail: Implement automated reconciliation capabilities in the trade settlement system to improve accuracy and efficiency in trade settlement processes.
+    - Change Date: 2023-07-10
+    - Change Start Time: 11:00 AM
+    - Change Finish Time: 01:00 PM
+    - Change Status: Scheduled
+
