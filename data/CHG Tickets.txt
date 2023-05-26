@@ -1,7 +1,7 @@
 Certainly! Here are 20 change tickets for testing purposes:
 
 1. Ticket #CHG001:
-   - Software Name: Database Management System
+   - Software Name: GMAIL
    - Change Title: Upgrade to the latest version
    - Change Detail: Perform an upgrade of the database management system to the latest stable release.
    - Change Date: 2023-06-01
