@@ -1,0 +1,361 @@
+
+
+**Ticket 1:**
+
+- Application Name: Salesforce
+- Ticket Type: INC
+- INC Start Time: 10:00 AM
+- INC End Time: 12:30 PM
+- INC Date: 2023-05-20
+- INC Detail: Salesforce application non-responsive
+- Region Impacted: Europe
+- Root Cause: Bug
+- Financial Loss in Millions (USD): 1.1
+- Fix Applied: 
+  1. Identified the issue in application logs
+  2. Isolated the affected modules
+  3. Applied hotfix to the faulty module
+  4. Performed regression testing
+  5. Confirmed stability with end users
+
+**Ticket 2:**
+
+- Application Name: Microsoft 365
+- Ticket Type: INC
+- INC Start Time: 02:00 PM
+- INC End Time: 05:00 PM
+- INC Date: 2023-05-22
+- INC Detail: Unable to send emails
+- Region Impacted: Asia
+- Root Cause: Capacity
+- Financial Loss in Millions (USD): 0.5
+- Fix Applied: 
+  1. Analysed server logs
+  2. Identified overutilization of storage
+  3. Increased storage capacity
+  4. Monitored performance post-increase
+  5. Provided a report to management about the incident
+
+**Ticket 3:**
+
+- Application Name: Oracle Database
+- Ticket Type: INC
+- INC Start Time: 09:00 AM
+- INC End Time: 12:00 PM
+- INC Date: 2023-05-24
+- INC Detail: Database connection failure
+- Region Impacted: North America
+- Root Cause: Change
+- Financial Loss in Millions (USD): 0.8
+- Fix Applied: 
+  1. Identified the recent changes applied
+  2. Rollback to the previous stable configuration
+  3. Verified database connectivity 
+  4. Documented the faulty change for future prevention
+  5. Reviewed change control process to ensure quality
+
+**Ticket 4:**
+
+- Application Name: Zoom
+- Ticket Type: INC
+- INC Start Time: 01:00 PM
+- INC End Time: 03:30 PM
+- INC Date: 2023-05-25
+- INC Detail: Users unable to join meetings
+- Region Impacted: Middle East
+- Root Cause: User Error
+- Financial Loss in Millions (USD): 0.3
+- Fix Applied: 
+  1. Replicated user settings in a test environment
+  2. Identified incorrect configurations
+  3. Provided step-by-step guidance to users to rectify settings
+  4. Confirmed solution with end users
+  5. Prepared user guidance document for future reference
+
+**Ticket 5:**
+
+- Application Name: Slack
+- Ticket Type: INC
+- INC Start Time: 11:00 AM
+- INC End Time: 01:30 PM
+- INC Date: 2023-05-26
+- INC Detail: Delay in message delivery
+- Region Impacted: Africa
+- Root Cause: Batch Fail
+- Financial Loss in Millions (USD): 0.6
+- Fix Applied: 
+  1. Reviewed batch processing logs
+  2. Identified the failing batch process
+  3. Corrected the configuration in the batch process
+  4. Monitored the batch process for errors
+  5. Confirmed stability with end users
+
+**Ticket 6:**
+
+- Application Name: SAP HANA
+- Ticket Type: INC
+- INC Start Time: 10:00 AM
+- INC End Time: 02:00 PM
+- INC Date: 2023-05-27
+- INC Detail: Slow performance in report generation
+- Region Impacted: South America
+- Root Cause: Capacity
+- Financial Loss in Millions (USD): 0.9
+- Fix Applied: 
+  1. Identified the slow performing modules
+  2. Analysed the system resources utilization
+  3. Increased the system resources for the affected modules
+  4. Monitored the performance of the modules post enhancement
+  5. Verified faster report generation with end users
+
+**Ticket 7:**
+
+- Application Name: Jira
+- Ticket Type: INC
+- INC Start Time: 12:00 PM
+- INC End Time: 03:30 PM
+- INC Date: 2023-05-28
+- INC Detail: Cannot create new tickets
+- Region Impacted: Europe
+- Root Cause: Bad Data
+- Financial Loss in Millions (USD): 0.7
+- Fix Applied: 
+  1. Reviewed the data input logs for errors
+  2. Identified the incorrect data causing the problem
+  3. Corrected the database entries
+  4. Monitored the ticket creation process for errors
+  5. Verified issue resolution with end users
+
+**Ticket 8:**
+
+- Application Name: Adobe Creative Cloud
+- Ticket Type: INC
+- INC Start Time: 08:00 AM
+- INC End Time: 10:30 AM
+- INC Date: 2023-05-29
+- INC Detail: Unable to download design assets
+- Region Impacted: North America
+- Root Cause: Change
+- Financial Loss in Millions (USD): 0.4
+- Fix Applied: 
+  1. Identified the recent changes applied
+  2. Rollback to the previous stable configuration
+  3. Verified asset download functionality
+  4. Documented the faulty change for future prevention
+  5. Reviewed change control process to ensure quality
+
+**Ticket 9:**
+
+- Application Name: GitHub
+- Ticket Type: INC
+- INC Start Time: 09:00 AM
+- INC End Time: 11:30 AM
+- INC Date: 2023-05-30
+- INC Detail: Code merge conflicts
+- Region Impacted: Asia
+- Root Cause: User Error
+- Financial Loss in Millions (USD): 0.2
+- Fix Applied: 
+  1. Assessed the code branches causing conflicts
+  2. Guided users through conflict resolution process
+  3. Verified successful merge with no conflicts
+  4. Provided user training on proper merge strategies
+  5. Prepared user guidance document for future reference
+
+**Ticket 10:**
+
+- Application Name: AutoCAD
+- Ticket Type: INC
+- INC Start Time: 10:00 AM
+- INC End Time: 01:30 PM
+- INC Date: 2023-05-31
+- INC Detail: Software crashes intermittently
+- Region Impacted: Middle East
+- Root Cause: Bug
+- Financial Loss in Millions (USD): 0.8
+- Fix Applied: 
+  1. Identified the issue in application logs
+  2. Isolated the affected modules
+  3. Applied hotfix to the faulty module
+  4. Performed regression testing
+  5. Confirmed stability with end users
+
+**Ticket 11:**
+
+- Application Name: Trello
+- Ticket Type: INC
+- INC Start Time: 02:00 PM
+- INC End Time: 05:00 PM
+- INC Date: 2023-05-30
+- INC Detail: Board information not updating
+- Region Impacted: South America
+- Root Cause: Batch Fail
+- Financial Loss in Millions (USD): 0.3
+- Fix Applied: 
+  1. Reviewed batch processing logs
+  2. Identified the failing batch process
+  3. Corrected the configuration in the batch process
+  4. Monitored the batch process for errors
+  5. Confirmed stability with end users
+
+**Ticket 12:**
+
+- Application Name: Google Cloud Platform
+- Ticket Type: INC
+- INC Start Time: 01:00 PM
+- INC End Time: 04:30 PM
+- INC Date: 2023-05-30
+- INC Detail: Service disruption in Compute Engine
+- Region Impacted: Asia
+- Root Cause: Change
+- Financial Loss in Millions (USD): 1.4
+- Fix Applied: 
+  1. Identified the recent changes applied
+  2. Rollback to the previous stable configuration
+  3. Verified service availability
+  4. Documented the faulty change for future prevention
+  5. Reviewed change control process to ensure quality
+
+**Ticket 13:**
+
+- Application Name: Microsoft Excel
+- Ticket Type: INC
+- INC Start Time: 08:00 AM
+- INC End Time: 10:30 AM
+- INC Date: 2023-05-31
+- INC Detail: Macro execution error
+- Region Impacted: North America
+- Root Cause: Bad Data
+- Financial Loss in Millions (USD): 0.3
+- Fix Applied: 
+  1. Identified the data causing the macro error
+  2. Corrected the erroneous data entries
+  3. Verified the macro execution process
+  4. Documented the faulty data entries for future reference
+  5. Provided user training on data entry for macros
+
+**Ticket 14:**
+
+- Application Name: SAP ERP
+- Ticket Type: INC
+- INC Start Time: 11:00 AM
+- INC End Time: 03:00 PM
+- INC Date: 2023-05-31
+- INC Detail: Delay in batch job execution
+- Region Impacted: Europe
+- Root Cause: Capacity
+- Financial Loss in Millions (USD): 1.2
+- Fix Applied: 
+  1. Identified the slow performing jobs
+  2. Analysed the system resources utilization
+  3. Increased the system resources for the batch jobs
+  4. Monitored the execution of jobs post enhancement
+  5. Verified faster job execution with end users
+
+**Ticket 15:**
+
+- Application Name: Docker
+- Ticket Type: INC
+- INC Start Time: 09:00 AM
+- INC End Time: 11:00 AM
+- INC Date: 2023-05-31
+- INC Detail: Container failure
+- Region Impacted: Middle East
+- Root Cause: Bug
+- Financial Loss in Millions (USD): 0.5
+- Fix Applied: 
+  1. Identified the issue in application logs
+  2. Isolated the affected container
+  3. Applied hotfix to the Dockerfile
+  4. Rebuilt the Docker image and re-deployed the container
+  5. Confirmed stability with end users
+
+**Ticket 16:**
+
+- Application Name: Confluence
+- Ticket Type: INC
+- INC Start Time: 12:00 PM
+- INC End Time: 02:30 PM
+- INC Date: 2023-05-31
+- INC Detail: Unable to edit pages
+- Region Impacted: Africa
+- Root Cause: User Error
+- Financial Loss in Millions (USD): 0.4
+- Fix Applied: 
+  1. Replicated user settings in a test environment
+  2. Identified incorrect configurations
+  3. Provided step-by-step guidance to users to rectify settings
+  4. Confirmed solution with end users
+  5. Prepared user guidance document for future reference
+
+**Ticket 17:**
+
+- Application Name: Tableau
+- Ticket Type: INC
+- INC Start Time: 02:00 PM
+- INC End Time: 05:30 PM
+- INC Date: 2023-05-31
+- INC Detail: Data visualization not updating
+- Region Impacted: Australia
+- Root Cause: Batch Fail
+- Financial Loss in Millions (USD): 0.2
+- Fix Applied: 
+  1. Reviewed batch processing logs
+  2. Identified the failing batch process
+  3. Corrected the configuration in the batch process
+  4. Monitored the batch process for errors
+  5. Confirmed stability with end users
+
+**Ticket 18:**
+
+- Application Name: WordPress
+- Ticket Type: INC
+- INC Start Time: 10:00 AM
+- INC End Time: 01:00 PM
+- INC Date: 2023-05-31
+- INC Detail: Website crashing intermittently
+- Region Impacted: North America
+- Root Cause: Bug
+- Financial Loss in Millions (USD): 0.7
+- Fix Applied: 
+  1. Identified the issue in application logs
+  2. Isolated the faulty WordPress plugin
+  3. Applied update to the faulty plugin
+  4. Performed regression testing
+  5. Confirmed stability with end users
+
+**Ticket 19:**
+
+- Application Name: Google Analytics
+- Ticket Type: INC
+- INC Start Time: 03:00 PM
+- INC End Time: 05:00 PM
+- INC Date: 2023-05-31
+- INC Detail: Traffic data not showing
+- Region Impacted: Asia
+- Root Cause: Bad Data
+- Financial Loss in Millions (USD): 0.3
+- Fix Applied: 
+  1. Reviewed the data input logs for errors
+  2. Identified the incorrect data causing the problem
+  3. Corrected the database entries
+  4. Monitored the traffic data for errors
+  5. Verified issue resolution with end users
+
+**Ticket 20:**
+
+- Application Name: AWS EC2
+- Ticket Type: INC
+- INC Start Time: 11:00 AM
+- INC End Time: 01:30 PM
+- INC Date: 2023-05-31
+- INC Detail: Instance not booting
+- Region Impacted: Europe
+- Root Cause: Change
+- Financial Loss in Millions (USD): 1.1
+- Fix Applied: 
+  1. Identified the recent changes applied
+  2. Rollback to the previous stable configuration
+  3. Verified instance availability
+  4. Documented the faulty change for future prevention
+  5. Reviewed change control process to ensure quality
