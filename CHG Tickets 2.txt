@@ -1,0 +1,221 @@
+1. Ticket #CHG001:
+   - Ticket Type: CHANGE
+   - Software Name: Core Banking System
+   - Change Title: Database Upgrade
+   - Change Detail: Upgrading the database infrastructure to improve performance and scalability.
+   - Change Region: North America
+   - Change Date: 2023-06-01
+   - Change Start Time: 10:00 PM
+   - Change Finish Time: 4:00 AM
+   - Change Status: Completed
+
+2. Ticket #CHG002:
+   - Ticket Type: CHANGE
+   - Software Name: Payment Processing System
+   - Change Title: Configuration Update
+   - Change Detail: Modifying system configurations to enhance payment processing efficiency.
+   - Change Region: Europe
+   - Change Date: 2023-06-03
+   - Change Start Time: 2:00 AM
+   - Change Finish Time: 3:00 AM
+   - Change Status: Completed
+
+3. Ticket #CHG003:
+   - Ticket Type: CHANGE
+   - Software Name: Loan Origination System
+   - Change Title: Software Patch
+   - Change Detail: Applying a software patch to address reported bugs and enhance system stability.
+   - Change Region: Asia-Pacific
+   - Change Date: 2023-06-05
+   - Change Start Time: 8:00 PM
+   - Change Finish Time: 9:30 PM
+   - Change Status: Completed
+
+4. Ticket #CHG004:
+   - Ticket Type: CHANGE
+   - Software Name: Customer Relationship Management (CRM) System
+   - Change Title: Database Migration
+   - Change Detail: Migrating the CRM database to a new server for improved reliability and performance.
+   - Change Region: North America
+   - Change Date: 2023-06-07
+   - Change Start Time: 11:00 PM
+   - Change Finish Time: 5:00 AM
+   - Change Status: Completed
+
+5. Ticket #CHG005:
+   - Ticket Type: CHANGE
+   - Software Name: ATM Management System
+   - Change Title: Software Upgrade
+   - Change Detail: Upgrading the ATM management software to introduce new features and enhance security.
+   - Change Region: Europe
+   - Change Date: 2023-06-09
+   - Change Start Time: 1:00 AM
+   - Change Finish Time: 3:30 AM
+   - Change Status: Completed
+
+6. Ticket #CHG006:
+   - Ticket Type: CHANGE
+   - Software Name: Fraud Detection System
+   - Change Title: Algorithm Optimization
+   - Change Detail: Optimizing the fraud detection algorithm to improve accuracy and reduce false positives.
+   - Change Region: Asia-Pacific
+   - Change Date: 2023-06-11
+   - Change Start Time: 9:00 PM
+   - Change Finish Time: 11:00 PM
+   - Change Status: Completed
+
+7. Ticket #CHG007:
+   - Ticket Type: CHANGE
+   - Software Name: Mobile Banking App
+   - Change Title: Feature Enhancement
+   - Change Detail: Introducing new features and improving user experience on the mobile banking app.
+   - Change Region: North America
+   - Change Date: 2023-06-13
+   - Change Start Time: 4:00 AM
+   - Change Finish Time: 5:30 AM
+   - Change Status: Completed
+
+8. Ticket #CHG008:
+   - Ticket Type: CHANGE
+   - Software Name: Online Trading Platform
+   - Change Title: Infrastructure Upgrade
+   - Change Detail: Upgrading the infrastructure of the online trading platform to enhance stability and performance.
+   - Change Region: Europe
+   - Change Date: 2023-06-15
+   - Change Start Time: 12:00 AM
+   - Change Finish Time: 4:00 AM
+   - Change Status: In Progress
+
+9. Ticket #CHG009:
+   - Ticket Type: CHANGE
+   - Software Name: Credit Card Processing System
+   - Change Title: Integration Update
+   - Change Detail: Updating the credit card processing system to integrate with a new payment gateway.
+   - Change Region: Asia-Pacific
+   - Change Date: 2023-06-17
+   - Change Start Time: 9:00 PM
+   - Change Finish Time: 10:00 PM
+   - Change Status: Scheduled
+
+10. Ticket #CHG010:
+    - Ticket Type: CHANGE
+    - Software Name: Online Account Opening System
+    - Change Title: Security Enhancement
+    - Change Detail: Implementing additional security measures to protect customer data in the online account opening system.
+    - Change Region: North America
+    - Change Date: 2023-06-19
+    - Change Start Time: 3:00 AM
+    - Change Finish Time: 5:00 AM
+    - Change Status: Approved
+
+11. Ticket #CHG011:
+    - Ticket Type: CHANGE
+    - Software Name: Loan Servicing System
+    - Change Title: Workflow Optimization
+    - Change Detail: Streamlining the loan servicing workflow to improve operational efficiency.
+    - Change Region: Europe
+    - Change Date: 2023-06-21
+    - Change Start Time: 7:00 PM
+    - Change Finish Time: 8:30 PM
+    - Change Status: Requested
+
+12. Ticket #CHG012:
+    - Ticket Type: CHANGE
+    - Software Name: Wealth Management Platform
+    - Change Title: Performance Enhancement
+    - Change Detail: Implementing performance optimizations to ensure faster response times on the wealth management platform.
+    - Change Region: Asia-Pacific
+    - Change Date: 2023-06-23
+    - Change Start Time: 10:00 AM
+    - Change Finish Time: 12:00 PM
+    - Change Status: Completed
+
+13. Ticket #CHG013:
+    - Ticket Type: CHANGE
+    - Software Name: Mobile Payment App
+    - Change Title: User Interface Update
+    - Change Detail: Updating the user interface of the mobile payment app to improve usability and navigation.
+    - Change Region: North America
+    - Change Date: 2023-06-25
+    - Change Start Time: 2:00 AM
+    - Change Finish Time: 4:00 AM
+    - Change Status: In Progress
+
+14. Ticket #CHG014:
+    - Ticket Type: CHANGE
+    - Software Name: Mortgage Origination System
+    - Change Title: Process Automation
+    - Change Detail: Automating manual processes in the mortgage origination system to improve efficiency.
+    - Change Region: Europe
+    - Change Date: 2023-06-27
+    - Change Start Time: 9:00 PM
+    - Change Finish Time: 10:30 PM
+    - Change Status: Approved
+
+15. Ticket #CHG015:
+    - Ticket Type: CHANGE
+    - Software Name: Credit Scoring System
+    - Change Title: Data Model Update
+    - Change Detail: Updating the data model used in the credit scoring system to improve accuracy and predictive capabilities.
+    - Change Region: Asia-Pacific
+    - Change Date: 2023-06-29
+    - Change Start Time: 1:00 AM
+    - Change Finish Time: 3:00 AM
+    - Change Status: Scheduled
+
+16. Ticket #CHG016:
+    - Ticket Type: CHANGE
+    - Software Name: Online Banking Portal
+    - Change Title: Accessibility Enhancement
+    - Change Detail: Implementing accessibility features to ensure compliance with accessibility standards on the online banking portal.
+    - Change Region: North America
+    - Change Date: 2023-07-01
+    - Change Start Time: 6:00 PM
+    - Change Finish Time: 8:00 PM
+    - Change Status: Requested
+
+17. Ticket #CHG017:
+    - Ticket Type: CHANGE
+    - Software Name: Investment Portfolio Management System
+    - Change Title: Report Generation Optimization
+    - Change Detail: Optimizing the report generation process to reduce processing time and improve performance.
+    - Change Region: Europe
+    - Change Date: 2023-07-03
+    - Change Start Time: 10:00 AM
+    - Change Finish Time: 12:00 PM
+    - Change Status: In Progress
+
+18. Ticket #CHG018:
+    - Ticket Type: CHANGE
+    - Software Name: Online Loan Application Portal
+    - Change Title: User Experience Enhancement
+    - Change Detail: Improving the user experience of the online loan application portal with updated navigation and design elements.
+    - Change Region: Asia-Pacific
+    - Change Date: 2023-07-05
+    - Change Start Time: 3:00 PM
+    - Change Finish Time: 5:00 PM
+    - Change Status: Approved
+
+19. Ticket #CHG019:
+    - Ticket Type: CHANGE
+    - Software Name: Online Stock Trading Platform
+    - Change Title: Trading Engine Upgrade
+    - Change Detail: Upgrading the trading engine of the online stock trading platform to support new order types and improve performance.
+    - Change Region: North America
+    - Change Date: 2023-07-07
+    - Change Start Time: 8:00 PM
+    - Change Finish Time: 10:00 PM
+    - Change Status: Scheduled
+
+20. Ticket #CHG020:
+    - Ticket Type: CHANGE
+    - Software Name: Customer Onboarding System
+    - Change Title: Compliance Update
+    - Change Detail: Updating the customer onboarding system to comply with new regulatory requirements.
+    - Change Region: Europe
+    - Change Date: 2023-07-09
+    - Change Start Time: 12:00 PM
+    - Change Finish Time: 2:00 PM
+    - Change Status: Requested
+
+
